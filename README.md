@@ -4,7 +4,6 @@
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
-This repository contains starter code for the Geo Quiz project in Udacity's iOS Nanodegree.
 
 ## Overview
 
@@ -13,7 +12,3 @@ Geo Quiz is an iOS application where users try to determine the language of a sp
 ## Setup
 
 There are no special setup instructions, just build and run!
-
-## Maintainers
-
-@jarrodparkes
